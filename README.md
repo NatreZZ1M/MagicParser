@@ -21,7 +21,7 @@
 В терминале выполнить команду:
     g++ main.cpp parser/*.cpp -I models -o main
 
-затем:    
+затем:
     .\main
 
 ### Запуск
